@@ -22,7 +22,7 @@
     "url": "https://connect.itlab.cc",
     "icon": "https://favicons.githubusercontent.com/connect.itlab.cc",
     "slug": "as-38254",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 122,
     "timeMonth": 112,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "AS211622",
