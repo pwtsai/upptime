@@ -6,7 +6,7 @@ sites:
   - name: AS57401
     url: https://peering.oftein.net
   - name: AS38254
-    url: http://connect.itlab.cc
+    url: https://connect.itlab.cc
   - name: AS211622
     url: https://network.pwtsai.im/
 
@@ -27,3 +27,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: 進行中事件
+  pastIncidents: 歷史事件
+  incidentDetails: 詳細說明
+  incidentFixed: 修復完成
+  incidentOngoing: 尚未修復
+  
