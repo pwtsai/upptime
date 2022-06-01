@@ -6,7 +6,7 @@ sites:
   - name: AS57401
     url: https://peering.oftein.net
   - name: AS38254
-    url: https://connect.itlab.cc
+    url: http://connect.itlab.cc
   - name: AS211622
     url: https://network.pwtsai.im/
 
