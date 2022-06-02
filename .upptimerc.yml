@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: AS57401
     url: https://peering.oftein.net
-#  - name: AS38254
-#    url: https://connect.itlab.cc
+  - name: AS38254
+    url: https://connect.itlab.cc
   - name: AS211622
     url: https://network.pwtsai.im/
 
