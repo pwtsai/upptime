@@ -4,18 +4,20 @@
     "url": "https://www.ncu.edu.tw/tw/",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "national-central-university",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1880,
-    "timeDay": 1880,
+    "timeDay": 0,
     "timeWeek": 1880,
     "timeMonth": 1880,
     "timeYear": 1880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-06": 0
+    }
   },
   {
     "name": "NARLabs",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2907,
-    "timeDay": 2907,
-    "timeWeek": 2907,
-    "timeMonth": 2907,
-    "timeYear": 2907,
+    "time": 2974,
+    "timeDay": 3108,
+    "timeWeek": 2974,
+    "timeMonth": 2974,
+    "timeYear": 2974,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/noc.tanet.edu.tw",
     "slug": "ta-net-noc",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "55.36%",
+    "uptimeDay": "37.57%",
+    "uptimeWeek": "55.36%",
+    "uptimeMonth": "55.36%",
+    "uptimeYear": "55.36%",
     "time": 1819,
-    "timeDay": 1819,
+    "timeDay": 0,
     "timeWeek": 1819,
     "timeMonth": 1819,
     "timeYear": 1819,
     "dailyMinutesDown": {
-      "2022-06-06": 0
+      "2022-06-06": 899
     }
   },
   {
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 246,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 265,
+    "timeDay": 303,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -84,13 +86,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1403,
-    "timeDay": 1403,
-    "timeWeek": 1403,
-    "timeMonth": 1403,
-    "timeYear": 1403,
+    "time": 1320,
+    "timeDay": 1154,
+    "timeWeek": 1320,
+    "timeMonth": 1320,
+    "timeYear": 1320,
     "dailyMinutesDown": {
-      "2022-06-06": 495,
+      "2022-06-06": 1394,
       "2022-06-05": 620
     }
   }
