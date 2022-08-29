@@ -22,14 +22,14 @@
     "url": "https://www.narlabs.org.tw/",
     "icon": "https://favicons.githubusercontent.com/www.narlabs.org.tw",
     "slug": "nar-labs",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "78.91%",
+    "status": "down",
+    "uptime": "97.10%",
+    "uptimeDay": "78.90%",
     "uptimeWeek": "81.31%",
-    "uptimeMonth": "91.84%",
-    "uptimeYear": "97.09%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "97.10%",
     "time": 4061,
-    "timeDay": 5551,
+    "timeDay": 5749,
     "timeWeek": 5193,
     "timeMonth": 4135,
     "timeYear": 4061,
@@ -46,7 +46,7 @@
       "2022-08-20": 503,
       "2022-08-19": 191,
       "2022-08-18": 196,
-      "2022-08-17": 241
+      "2022-08-17": 219
     }
   },
   {
