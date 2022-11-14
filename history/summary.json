@@ -13,7 +13,7 @@
     "time": 2272,
     "timeDay": 2097,
     "timeWeek": 1462,
-    "timeMonth": 1897,
+    "timeMonth": 1883,
     "timeYear": 2272,
     "dailyMinutesDown": {
       "2022-10-14": 19
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
     "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "98.47%",
+    "uptime": "98.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.46%",
     "time": 4425,
     "timeDay": 5571,
     "timeWeek": 4851,
-    "timeMonth": 4796,
+    "timeMonth": 4742,
     "timeYear": 4425,
     "dailyMinutesDown": {
-      "2022-11-13": 5,
       "2022-10-28": 17,
       "2022-10-15": 16,
       "2022-10-07": 24,
@@ -52,7 +51,7 @@
       "2022-08-22": 317,
       "2022-08-21": 290,
       "2022-08-20": 503,
-      "2022-08-19": 41
+      "2022-08-19": 65
     }
   },
   {
@@ -69,7 +68,7 @@
     "time": 2499,
     "timeDay": 2127,
     "timeWeek": 1878,
-    "timeMonth": 2069,
+    "timeMonth": 2067,
     "timeYear": 2499,
     "dailyMinutesDown": {
       "2022-09-26": 215,
@@ -95,7 +94,7 @@
     "time": 339,
     "timeDay": 295,
     "timeWeek": 273,
-    "timeMonth": 438,
+    "timeMonth": 442,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2022-07-30": 679,
@@ -111,15 +110,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "failed-webpage-of-im-department",
     "status": "down",
-    "uptime": "96.58%",
+    "uptime": "96.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.58%",
+    "uptimeYear": "96.59%",
     "time": 1407,
     "timeDay": 1931,
     "timeWeek": 1493,
-    "timeMonth": 1377,
+    "timeMonth": 1379,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2022-06-11": 120,
