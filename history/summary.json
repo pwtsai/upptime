@@ -25,18 +25,19 @@
     "url": "https://www.narlabs.org.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.56%",
     "time": 4430,
     "timeDay": 7723,
     "timeWeek": 4594,
     "timeMonth": 4567,
     "timeYear": 4430,
     "dailyMinutesDown": {
+      "2022-11-23": 0,
       "2022-10-28": 17,
       "2022-10-15": 16,
       "2022-10-07": 24,
@@ -52,7 +53,7 @@
       "2022-08-22": 317,
       "2022-08-21": 290,
       "2022-08-20": 503,
-      "2022-08-19": 65
+      "2022-08-19": 41
     }
   },
   {
