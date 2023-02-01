@@ -3,16 +3,10 @@ owner: pwtsai # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: National Central University
-    url: https://www.ncu.edu.tw/tw/
-  - name: NARLabs
-    url: https://www.narlabs.org.tw/
-  - name: TANet NOC
-    url: https://noc.tanet.edu.tw/
-  - name: PTT
-    url: https://www.ptt.cc/index.html
-  - name: Failed webpage of IM Department
-    url: https://im.mgt.ncu.edu.tw/noexist.html
+  - name: ITLab 
+    url: https://www.itlab.cc/
+  - name: ITLab Network
+    url: https://connect.itlab.cc/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
