@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.itlab.cc.ico",
     "slug": "it-lab",
     "status": "up",
-    "uptime": "72.19%",
+    "uptime": "72.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.19%",
-    "uptimeYear": "72.19%",
+    "uptimeMonth": "72.23%",
+    "uptimeYear": "72.23%",
     "time": 1908,
     "timeDay": 2373,
     "timeWeek": 2631,
@@ -33,18 +33,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "it-lab-network-looking-glass",
     "status": "down",
-    "uptime": "3.37%",
-    "uptimeDay": "3.37%",
-    "uptimeWeek": "3.37%",
-    "uptimeMonth": "3.37%",
-    "uptimeYear": "3.37%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 58
     }
   }
 ]
