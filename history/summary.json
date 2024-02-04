@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.itlab.cc.ico",
     "slug": "it-lab",
     "status": "down",
-    "uptime": "47.64%",
+    "uptime": "47.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2668,
+    "timeYear": 2680,
     "dailyMinutesDown": {
-      "2024-02-03": 59,
+      "2024-02-04": 64,
+      "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
@@ -210,8 +211,7 @@
       "2023-02-08": 1065,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
-      "2023-02-05": 1440,
-      "2023-02-04": 1440
+      "2023-02-05": 1440
     }
   },
   {
@@ -226,12 +226,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.01%",
     "time": 98,
-    "timeDay": 59,
-    "timeWeek": 75,
-    "timeMonth": 68,
+    "timeDay": 58,
+    "timeWeek": 77,
+    "timeMonth": 67,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-02-03": 59,
+      "2024-02-04": 64,
+      "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
