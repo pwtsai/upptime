@@ -6,7 +6,7 @@
     "slug": "it-lab-website",
     "status": "up",
     "uptime": "87.32%",
-    "uptimeDay": "75.65%",
+    "uptimeDay": "77.12%",
     "uptimeWeek": "90.94%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "89.94%",
@@ -76,17 +76,17 @@
     "url": "https://lg.itlab.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "network-looking-glass",
-    "status": "up",
+    "status": "down",
     "uptime": "90.06%",
-    "uptimeDay": "42.29%",
-    "uptimeWeek": "23.82%",
-    "uptimeMonth": "14.14%",
+    "uptimeDay": "43.75%",
+    "uptimeWeek": "24.03%",
+    "uptimeMonth": "14.19%",
     "uptimeYear": "89.24%",
     "time": 290,
-    "timeDay": 423,
-    "timeWeek": 419,
-    "timeMonth": 400,
-    "timeYear": 299,
+    "timeDay": 416,
+    "timeWeek": 417,
+    "timeMonth": 399,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-03-19": 679,
       "2025-03-18": 1007,
@@ -129,7 +129,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 431
+      "2025-02-06": 414
     }
   }
 ]
