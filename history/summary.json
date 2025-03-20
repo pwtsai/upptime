@@ -4,7 +4,7 @@
     "url": "https://www.itlab.ee.ncku.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.itlab.ee.ncku.edu.tw.ico",
     "slug": "it-lab-website",
-    "status": "up",
+    "status": "down",
     "uptime": "92.06%",
     "uptimeDay": "72.50%",
     "uptimeWeek": "87.93%",
@@ -63,7 +63,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1230
+      "2024-04-21": 1206
     }
   },
   {
@@ -73,8 +73,8 @@
     "slug": "network-looking-glass",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "55.34%",
-    "uptimeWeek": "27.68%",
+    "uptimeDay": "56.89%",
+    "uptimeWeek": "27.91%",
     "uptimeMonth": "80.00%",
     "uptimeYear": "98.33%",
     "time": 295,
