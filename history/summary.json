@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.itlab.ee.ncku.edu.tw.ico",
     "slug": "it-lab-website",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "87.47%",
-    "uptimeWeek": "87.73%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.52%",
+    "uptimeDay": "87.98%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "99.47%",
     "time": 1574,
     "timeDay": 2652,
-    "timeWeek": 2059,
+    "timeWeek": 2073,
     "timeMonth": 1765,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2025-03-30": 23,
+      "2025-03-30": 16,
       "2025-03-29": 226,
       "2025-03-28": 130,
       "2025-03-27": 290,
@@ -29,7 +29,7 @@
       "2025-03-20": 481,
       "2025-03-19": 313,
       "2025-03-18": 229,
-      "2025-03-17": 78
+      "2025-03-17": 120
     }
   },
   {
@@ -37,17 +37,17 @@
     "url": "https://lg.itlab.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "network-looking-glass",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "64.14%",
-    "uptimeWeek": "29.92%",
-    "uptimeMonth": "76.16%",
-    "uptimeYear": "98.01%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "68.29%",
+    "uptimeWeek": "30.54%",
+    "uptimeMonth": "76.20%",
+    "uptimeYear": "98.02%",
     "time": 329,
-    "timeDay": 442,
-    "timeWeek": 449,
+    "timeDay": 432,
+    "timeWeek": 447,
     "timeMonth": 426,
-    "timeYear": 339,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-03-30": 257,
       "2025-03-29": 486,
@@ -59,7 +59,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 797,
-      "2025-03-20": 421
+      "2025-03-20": 404
     }
   }
 ]
