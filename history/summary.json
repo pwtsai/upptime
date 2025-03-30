@@ -37,16 +37,16 @@
     "url": "https://lg.itlab.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "network-looking-glass",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "64.13%",
-    "uptimeWeek": "29.84%",
-    "uptimeMonth": "76.10%",
-    "uptimeYear": "98.01%",
-    "time": 329,
-    "timeDay": 443,
-    "timeWeek": 449,
-    "timeMonth": 426,
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "64.65%",
+    "uptimeWeek": "29.92%",
+    "uptimeMonth": "76.20%",
+    "uptimeYear": "98.02%",
+    "time": 328,
+    "timeDay": 437,
+    "timeWeek": 447,
+    "timeMonth": 425,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-03-30": 241,
@@ -59,7 +59,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 797,
-      "2025-03-20": 464
+      "2025-03-20": 421
     }
   }
 ]
