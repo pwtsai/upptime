@@ -4,15 +4,15 @@
     "url": "https://www.itlab.ee.ncku.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.itlab.ee.ncku.edu.tw.ico",
     "slug": "it-lab-website",
-    "status": "up",
-    "uptime": "99.50%",
+    "status": "down",
+    "uptime": "99.51%",
     "uptimeDay": "89.00%",
     "uptimeWeek": "86.95%",
-    "uptimeMonth": "92.98%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 1530,
     "timeDay": 2584,
-    "timeWeek": 2006,
+    "timeWeek": 2016,
     "timeMonth": 1629,
     "timeYear": 1529,
     "dailyMinutesDown": {
@@ -29,7 +29,7 @@
       "2025-04-10": 221,
       "2025-04-09": 239,
       "2025-04-08": 319,
-      "2025-04-07": 174
+      "2025-04-07": 138
     }
   },
   {
@@ -40,7 +40,7 @@
     "status": "up",
     "uptime": "98.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.22%",
+    "uptimeWeek": "87.59%",
     "uptimeMonth": "83.47%",
     "uptimeYear": "98.62%",
     "time": 356,
