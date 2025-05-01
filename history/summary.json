@@ -6,14 +6,14 @@
     "slug": "it-lab-website",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "68.11%",
+    "uptimeDay": "68.10%",
     "uptimeWeek": "85.73%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "99.43%",
-    "time": 1605,
-    "timeDay": 2779,
-    "timeWeek": 2377,
-    "timeMonth": 1681,
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
+    "time": 1604,
+    "timeDay": 2731,
+    "timeWeek": 2373,
+    "timeMonth": 1680,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-05-01": 368,
@@ -31,7 +31,7 @@
       "2025-04-19": 183,
       "2025-04-18": 209,
       "2025-04-17": 99,
-      "2025-04-16": 42
+      "2025-04-16": 24
     }
   },
   {
@@ -41,9 +41,9 @@
     "slug": "network-looking-glass",
     "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "13.20%",
+    "uptimeDay": "13.86%",
     "uptimeWeek": "77.54%",
-    "uptimeMonth": "81.51%",
+    "uptimeMonth": "81.53%",
     "uptimeYear": "98.21%",
     "time": 359,
     "timeDay": 442,
