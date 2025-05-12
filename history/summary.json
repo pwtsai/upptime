@@ -6,15 +6,15 @@
     "slug": "it-lab-website",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "78.13%",
-    "uptimeWeek": "82.14%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "82.32%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "99.43%",
-    "time": 1679,
-    "timeDay": 1142,
-    "timeWeek": 2120,
-    "timeMonth": 2066,
-    "timeYear": 1678,
+    "time": 1677,
+    "timeDay": 1140,
+    "timeWeek": 2119,
+    "timeMonth": 2063,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2025-05-12": 181,
       "2025-05-11": 285,
@@ -28,7 +28,7 @@
       "2025-05-03": 196,
       "2025-05-02": 192,
       "2025-05-01": 396,
-      "2025-04-30": 111
+      "2025-04-30": 90
     }
   },
   {
@@ -40,7 +40,7 @@
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.64%",
+    "uptimeMonth": "86.72%",
     "uptimeYear": "98.21%",
     "time": 362,
     "timeDay": 687,
