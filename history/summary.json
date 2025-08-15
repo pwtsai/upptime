@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "network-looking-glass",
     "status": "down",
-    "uptime": "92.40%",
+    "uptime": "92.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -50,7 +50,7 @@
     "timeMonth": 135,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-08-15": 888,
+      "2025-08-15": 896,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
