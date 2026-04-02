@@ -11,10 +11,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.89%",
     "time": 2094,
-    "timeDay": 1471,
-    "timeWeek": 1882,
-    "timeMonth": 2133,
-    "timeYear": 2104,
+    "timeDay": 1172,
+    "timeWeek": 1888,
+    "timeMonth": 2134,
+    "timeYear": 2108,
     "dailyMinutesDown": {
       "2026-03-21": 18,
       "2026-03-19": 37,
@@ -52,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "network-looking-glass",
     "status": "down",
-    "uptime": "65.06%",
+    "uptime": "64.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.24%",
-    "time": 379,
-    "timeDay": 58,
-    "timeWeek": 87,
-    "timeMonth": 107,
-    "timeYear": 358,
+    "uptimeYear": "26.04%",
+    "time": 368,
+    "timeDay": 134,
+    "timeWeek": 93,
+    "timeMonth": 108,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2026-04-01": 163,
+      "2026-04-02": 147,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -342,8 +343,7 @@
       "2025-04-06": 193,
       "2025-04-05": 45,
       "2025-04-04": 191,
-      "2025-04-03": 143,
-      "2025-04-02": 150
+      "2025-04-03": 143
     }
   }
 ]
