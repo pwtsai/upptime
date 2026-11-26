@@ -9,8 +9,8 @@
     "uptimeDay": "24.49%",
     "uptimeWeek": "23.90%",
     "uptimeMonth": "4.73%",
-    "uptimeYear": "59.63%",
-    "time": 2514,
+    "uptimeYear": "59.59%",
+    "time": 2520,
     "timeDay": 2878,
     "timeWeek": 2337,
     "timeMonth": 2250,
@@ -179,7 +179,8 @@
       "2026-11-22": 984,
       "2026-11-23": 906,
       "2026-11-24": 1056,
-      "2026-11-25": 1145
+      "2026-11-25": 1145,
+      "2026-11-26": 169
     }
   },
   {
@@ -188,15 +189,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lg.itlab.cc.ico",
     "slug": "network-looking-glass",
     "status": "up",
-    "uptime": "69.85%",
+    "uptime": "69.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.88%",
-    "time": 362,
-    "timeDay": 720,
-    "timeWeek": 563,
-    "timeMonth": 659,
+    "uptimeYear": "55.92%",
+    "time": 363,
+    "timeDay": 504,
+    "timeWeek": 554,
+    "timeMonth": 654,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-05-06": 235,
